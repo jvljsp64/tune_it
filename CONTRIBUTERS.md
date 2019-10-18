@@ -1,2 +1,2 @@
 ## Name : Joval Joseph
-Description : High school security enthusiast and a ctf player.
+Description : High school security enthusiast , ctf player and bug bounty hunter.
